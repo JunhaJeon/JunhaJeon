@@ -6,7 +6,6 @@
 
 ## 🔧 Technical Skills
 **Languages**: C, C++, Java, Python, JavaScript  
-**Tools/Tech**: Git, Node.js, Express, pthreads, semaphores, X11, Makefiles
 
 ## 📂 Projects
 ### 🔸 [Multithreaded Simulation (C)](https://github.com/JunhaJeon/Multithreaded-Simulation)
