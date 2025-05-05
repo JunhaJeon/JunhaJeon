@@ -22,4 +22,4 @@ Terminal-based game loading rooms and objects from structured text files. Allows
 
 ## 🌐 Connect with me
 📎 [LinkedIn](https://www.linkedin.com/in/junha-jeon-2b855219a)  
-📬 junhajeon@cmail.carleton.ca
+📬 djeon5167@gmail.com
