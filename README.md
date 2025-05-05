@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Junha Jeon
 
-<!--
-**JunhaJeon/JunhaJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year Computer Science student at Carleton University (Honours, Algorithms Stream) with a minor in Business.  
+💻 I enjoy solving problems through software — especially in backend systems, multithreading, and interactive web apps.  
+📌 Available for a 4 or 8-month co-op starting May or September 2025.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+**Languages**: C, C++, Java, Python, JavaScript  
+**Tools/Tech**: Git, Node.js, Express, pthreads, semaphores, X11, Makefiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+### 🔸 [Multithreaded Simulation (C)](https://github.com/JunhaJeon/Multithreaded-Simulation)
+Priority-based event queue with thread-safe simulation using `pthreads` and `semaphores`. Features dynamic resource arrays, memory-safe design (checked with Valgrind), and Makefile automation.
+
+### 🔸 [Component-Based GUI (C++)](https://github.com/JunhaJeon/COMP2404-Assignment3)
+GUI framework using polymorphism and inheritance. Implements `Button`, `TextArea`, `Panel`, and dynamic layout via `FlowPanel`.
+
+### 🔸 [AutoPark System (Java)](https://github.com/JunhaJeon/Autopark-Dealership-System)
+OOP-based dealership platform with real-time inventory, analytics, and persistent state via file I/O.
+
+### 🔸 [MyTunes (JavaScript)](https://github.com/JunhaJeon/MyTunes---iTunes-Song-Search)
+Web app using iTunes API, Express.js backend, and playlist creation with LocalStorage on the client.
+
+### 🔸 [Text Adventure Game (Python)](https://github.com/JunhaJeon/Text-Adventure-Game)
+Terminal-based game loading rooms and objects from structured text files. Allows user navigation and object inspection.
+
+## 🌐 Connect with me
+📎 [LinkedIn](https://www.linkedin.com/in/junha-jeon-2b855219a)  
+📬 junhajeon@cmail.carleton.ca
