@@ -4,8 +4,8 @@
 💻 I enjoy solving problems through software — especially in backend systems, multithreading, and interactive web apps.  
 📌 Available for a 4 or 8-month co-op starting May or September 2025.
 
-## 🔧 Technical Skills
-**Languages**: C, C++, Java, Python, JavaScript  
+## 🔧 Languages
+C, C++, Java, Python, JavaScript  
 
 ## 📂 Projects
 ### 🔸 [Multithreaded Simulation (C)](https://github.com/JunhaJeon/Multithreaded-Simulation)
