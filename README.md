@@ -20,6 +20,15 @@ Web app using iTunes API, Express.js backend, and playlist creation with LocalSt
 ### 🔸 [Text Adventure Game (Python)](https://github.com/JunhaJeon/Text-Adventure-Game)
 Terminal-based game loading rooms and objects from structured text files. Allows user navigation and object inspection.
 
+## 🎓 Education
+Carleton University (2023 – Present)
+
+Bachelor of Computer Science (Honours) | Minor in Business
+
+Major GPA: 11.14 / 12.00
+
+Expected Graduation: April 2028
+
 ## 🌐 Connect with me
 📎 [LinkedIn](https://www.linkedin.com/in/junha-jeon-2b855219a)  
 📬 djeon5167@gmail.com
