@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Junha Jeon
 
 🎓 I'm a third-year Computer Science student at Carleton University (Honours, Algorithms Stream) with a minor in Business.  
-💻 I enjoy solving problems through software — especially in backend systems, multithreading, and interactive web apps.  
+💻 I enjoy solving problems through software — especially in backend systems, and interactive web apps.  
 📌 Available for a 4 or 8-month co-op starting May or September 2025.
 
 ## 🔧 Languages
