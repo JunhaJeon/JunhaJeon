@@ -11,9 +11,6 @@ C, C++, Java, Python, JavaScript
 ### 🔸 [Multithreaded Simulation (C)](https://github.com/JunhaJeon/Multithreaded-Simulation)
 Priority-based event queue with thread-safe simulation using `pthreads` and `semaphores`. Features dynamic resource arrays, memory-safe design (checked with Valgrind), and Makefile automation.
 
-### 🔸 [AutoPark System (Java)](https://github.com/JunhaJeon/Autopark-Dealership-System)
-OOP-based dealership platform with real-time inventory, analytics, and persistent state via file I/O.
-
 ### 🔸 [MyTunes (JavaScript)](https://github.com/JunhaJeon/MyTunes---iTunes-Song-Search-Playlist-Web-App)
 Web app using iTunes API, Express.js backend, and playlist creation with LocalStorage on the client.
 
