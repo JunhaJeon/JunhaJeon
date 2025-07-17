@@ -2,7 +2,7 @@
 
 🎓 I'm a third-year Computer Science student at Carleton University (Honours, Software Engineering Stream) with a minor in Business(Information System).  
 💻 I enjoy solving problems through software, especially in backend systems, and interactive web apps.  
-📌 Available for a 4 or 8-month co-op starting September 2025.
+📌 Available for a 4, 8, or 12 month co-op starting September 2025.
 
 ## 🔧 Languages
 C, C++, Java, Python, JavaScript  
